@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+🌱 I’m currently learning lots of things. Life's a journey!
+
+⚡ Fun fact: The mitochondria is the powerhouse of the cell
+
 <!--
 **pkcpn/pkcpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
